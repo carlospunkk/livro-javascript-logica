@@ -1,0 +1,27 @@
+
+OPERADORES RELACIONAIS
+== Igual. Retorna verdadeiro caso os dados contenham o mesmo conteúdo
+
+!= Diferente. Retorna verdadeiro caso os dados contenham conteúdos
+diferentes.
+
+> Maior. Pode ser utilizado para comparar números ou palavras. Na
+comparação de palavras, a classificação alfabética é avaliada.
+
+< Menor. Também podem ser realizadas comparações de números ou palavras
+
+>= Maior ou igual. Os símbolos devem estar nesta ordem (>=)
+
+<= Menor ou igual. Tenha cuidado com a ordem dos símbolos (<=)
+
+=== estritamente iguais e !== estritatemnete diferente . Eles comparam também o tipo de dado em análise. 
+
+Assim, 
+'5'=== 5 retorna falso
+
+'5'!== 5 retorna verdadeiro
+
+teste
+var number = '5'
+console.log(number !== 5) 
+//true
