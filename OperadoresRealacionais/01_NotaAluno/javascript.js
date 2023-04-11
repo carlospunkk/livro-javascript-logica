@@ -20,8 +20,10 @@ function exibirmedia() {
 
   if (media >= 5 && media <= 10) {
     outSituacao.textContent = `parabéns ${nome} você foi aprovado`
+    outSituacao.style.color = "green";
   } else {
     outSituacao.textContent = `${nome} você foi reprovado`
+    outSituacao.style.color = "red";
   }
 
 }

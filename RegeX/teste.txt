@@ -1,0 +1,28 @@
+// control + f para abrir o menu
+
+Regular Expression
+
+[0] somente numeros zero
+[0 2] somente numeros zero ou 2
+[0-9] qualquer nùmero entre zero e 9
+[0][0] somente a sequencia que está no texto
+[0]{2} quantificador
+
+
+7896561
+7854123
+0125489
+4578962
+1115478
+2365974
+3336588
+7855541
+9999635
+5369802
+1458001
+8965742
+6988736
+1115478
+8546327
+8889952
+0005896
