@@ -6,7 +6,7 @@ Regular Expression
 [0 2] somente numeros zero ou 2
 [0-9] qualquer nùmero entre zero e 9
 [0][0] somente a sequencia que está no texto
-[0]{2} quantificador
+[0]{2} quantificador conta quantos zeros tem na sequencia
 
 
 7896561
